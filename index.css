@@ -1,0 +1,15 @@
+.blue {
+    width: 150px;
+    height: 150px;
+    background: rgb(44, 77, 224);
+}
+.red {
+    width: 150px;
+    height: 150px;
+    background: rgb(172, 49, 49);
+}
+.green {
+    width: 150px;
+    height: 150px;
+    background: rgb(62, 160, 62);
+}
